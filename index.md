@@ -1,13 +1,14 @@
 ---
-tags: [home]
----
 
-# Neuron Template
+# Zach's Zettelkasten
 
-You are viewing the [neuron](https://neuron.zettel.page/)-published site for [neuron-template](https://github.com/srid/neuron-template). [GitHub Pages](https://pages.github.com/) is used to automatically publish this site every time the underlying Git repository is updated.
+## Indices
 
-Get started by reading <README>.
+<z:zettels?tag=index>
 
-Other pages on this zettelkasten (this demonstrates how to use tag queries):
+## Neuron Template
 
-<z:zettels?tag=other>
+This is the [neuron](https://neuron.zettel.page/)-published site for
+[zperrault/zettelkasten](https://github.com/zperrault/zettelkasten).
+[GitHub Pages](https://pages.github.com/) is used to automatically publish this
+site every time the underlying Git repository is updated.
